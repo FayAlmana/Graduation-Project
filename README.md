@@ -1,3 +1,3 @@
 # Graduation-Project
 
-Efficient Multimodal Cryptosystem for Cancellable biometric based on DNA Encryption
+Efficient Multimodal Cryptosystem for Cancellable Biometric based on DNA Encryption
